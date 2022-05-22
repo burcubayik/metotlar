@@ -1,2 +1,5 @@
-# metotlar
-Medium yazısı için oluşturmuş olduğum bazı metot örnekleri
+# Metotlar
+
+Yukarıdaki kodların çıktıları şu şekildedir.
+![img](metotlarOrnek.png)
+
